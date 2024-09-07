@@ -15,10 +15,14 @@ h1, h2 {
 }
 
 img {
+    
     width: 200px;
+    border-radius: 55px;
+    border: 10px solid #cc0b0b; 
     height: auto;
     margin: 10px;
     display: inline-block;
+    
 }
 
 video {
